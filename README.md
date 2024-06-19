@@ -11,13 +11,13 @@ Please reach out to me at yujia-lyu@uiowa.edu with any questions, comments, or c
   Online protocol: RSP_Online_share.qsf
   Lab protocol: RSP_Lab_share.qsf
   
-## Analysis Replication
-  Data files:
+## Analysis Replication (please find in the work.zip)
+  Data files (.csv):
   * Online: RSP_online_share.csv
   * Lab: RSP_campus_share.csv
   * Experimental Setting Comparison: Sample_Compare.csv
   
-  R notebook for analysis (make sure the R notebook is in the same folder with the data to load data smoothly):
+  R notebook for analysis (please make sure the R notebook is in the same folder with the data to load data smoothly):
   * Online: RSP_online_share.Rmd
   * Lab: RSP_campus_share.Rmd
   * Experimental Setting Comparison: RSP_Compare.Rmd
