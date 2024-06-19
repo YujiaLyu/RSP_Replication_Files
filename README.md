@@ -9,7 +9,7 @@ Please reach out to me at yujia-lyu@uiowa.edu with any questions, comments, or c
 
 ## Experimental Replication - Qualtrics Protocol
   Online protocol: RSP_Online_share.qsf
-  Lab protocol: RSP_Lab_share.qsf
+  Lab protocol: RSP_Campus_share.qsf
   
 ## Analysis Replication (please find in the work.zip)
   Data files (.csv):
