@@ -1,19 +1,27 @@
-# Replication Files for RSP_Online
- Below, I provide the files to replicate the analyses and the experimental protocols for my paper: 
-    
-    Micro-Level Production of Durable Inequality: A Status Diffusion Approach
+# Replication Files for Role-Based Status Construction (online and lab)
+ 
+This is the repository for the paper "Role Hierarchy as A Status Construction Machine: A Replication" accepted by Social Psychological Quarterly. 
+Here, you will find the .qsf file, which you can upload to qualtrics and collect data exactly as we have. You can also access our data management and analysis files.
+ 
 
-    Please reach out to the me yujia-lyu@uiowa.edu with any questions, comments, or concerns.
+Please reach out to me at yujia-lyu@uiowa.edu with any questions, comments, or concerns.
 
 
 ## Experimental Replication - Qualtrics Protocol
-  You can find my experimental protocol (designed in Qualtrics) with Role_Stereotype_prolific.qsf.
+  Online protocol: RSP_Online_share.qsf
+  Lab protocol: RSP_Lab_share.qsf
   
-## Analysis Replication - [work.zip](https://github.com/YujiaLyu/RSP_Online_Files/blob/main/work.zip)
-  Here are my analytic scripts for the quantitative (R notebook) and qualitative (Excel workbook) results. 
+## Analysis Replication
+  Data files:
+  * Online: RSP_online_share.csv
+  * Lab: RSP_campus_share.csv
+  * Experimental Setting Comparison: Sample_Compare.csv
   
-## Result Summary:
-  [RSP_Online_Result](https://docs.google.com/spreadsheets/d/1ZRK0d8nUdrBGlmh1mSShKkw1GDnCqsS-YJW5fYdEm40/edit?usp=sharing).
+  R notebook for analysis (make sure the R notebook is in the same folder with the data to load data smoothly):
+  * Online: RSP_online_share.Rmd
+  * Lab: RSP_campus_share.Rmd
+  * Experimental Setting Comparison: RSP_Compare.Rmd
+  
   
   
   
