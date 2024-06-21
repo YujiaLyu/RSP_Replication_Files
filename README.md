@@ -8,8 +8,10 @@ Please reach out to me at yujia-lyu@uiowa.edu with any questions, comments, or c
 
 
 ## Experimental Replication - Qualtrics Protocol
-  Online protocol: RSP_Online_share.qsf
-  Lab protocol: RSP_Campus_share.qsf
+This experimental protocal owes great thanks to [SMARTRIQS](https://smartriqs.com/) and Bianca Manago, Trenton Mize, and Long Doan's 2022 [Sociological Methodology paper](https://journals.sagepub.com/doi/10.1177/00811750211014242) *Can You Really Study an Army on the Internet? Comparing How Status Tasks Perform in the Laboratory and Online Settings*. 
+
+  * Online protocol: RSP_Online_share.qsf
+  * Lab protocol: RSP_Campus_share.qsf
   
 ## Analysis Replication (please find in the work.zip)
   Data files (.csv):
